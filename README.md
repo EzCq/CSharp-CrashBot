@@ -1,5 +1,5 @@
 # CSharp-CrashBot
 - > Краш бот на `c#`
 
-- > **Setup**
+# Установка
 > **Устанавливаем Visual Studio 2022 [`Клик`](https://visualstudio.microsoft.com/vs/)**
