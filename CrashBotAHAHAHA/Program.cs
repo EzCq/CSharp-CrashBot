@@ -43,7 +43,7 @@ $"<:rulz:961950442965852192> [`Youtube создателя`]({CrashBotAHAHAHA.Con
         await _client.LoginAsync(TokenType.Bot, token);
         await _client.StartAsync();
 
-        // Block this task until the program is closed.
+
         await Task.Delay(-1);
     }
 
